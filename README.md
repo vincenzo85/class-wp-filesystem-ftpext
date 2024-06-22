@@ -85,6 +85,4 @@ PHP Fatal error:  Uncaught TypeError: ftp_chdir(): Argument #1 ($ftp) must be of
 
 **Solution:** Added a check before calling `ftp_chdir()` to ensure the connection is valid.
 
-## Conclusion
-
 ---
