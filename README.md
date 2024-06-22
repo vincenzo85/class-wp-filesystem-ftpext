@@ -1,6 +1,3 @@
-
----
-
 # WordPress FTP Filesystem Modifications
 
 ## Overview
